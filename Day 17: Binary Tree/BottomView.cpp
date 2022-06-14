@@ -15,7 +15,7 @@ Input:
 Output: 40 20 60 30
   
 Note:- Draw a horizontal line starting to root and atke root as 0
-and -1 to its left and +1 to its right follow it untill the base case hit.
+and -1 to its left and +1 to its right follow it untill the base case hit and take the last element of the new horizontal distance..
   
 vector <int> bottomView(Node *root) {
     
